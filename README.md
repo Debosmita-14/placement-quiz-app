@@ -2,7 +2,7 @@
 
 An interactive quiz application designed to help students prepare for campus placements with practice questions in Aptitude, Data Structures & Algorithms, and Programming Languages.
 
-![Placement Quiz App](https://img.shields.io/badge/React-18.2.0-blue) ![Vite](https://img.shields.io/badge/Vite-4.3.9-purple) ![License](https://img.shields.io/badge/license-MIT-green)
+![Placement Quiz App](https://img.shields.io/badge/React-18.2.0-blue) ![Vite](https://img.shields.io/badge/Vite-4.3.9-purple) 
 
 ## ✨ Features
 
