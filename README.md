@@ -36,13 +36,13 @@ An interactive quiz application designed to help students prepare for campus pla
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](https://via.placeholder.com/800x400?text=Home+Page+Screenshot)
+![Home Page](./screenshots/home.png)
 
 ### Quiz Interface
-![Quiz Interface](https://via.placeholder.com/800x400?text=Quiz+Interface+Screenshot)
+![Quiz Interface](./screenshots/quiz.png)
 
 ### Results Dashboard
-![Results](https://via.placeholder.com/800x400?text=Results+Screenshot)
+![Results](./screenshots/results.png)
 
 ## 🛠️ Tech Stack
 
