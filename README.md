@@ -33,16 +33,6 @@ An interactive quiz application designed to help students prepare for campus pla
 
 [Try the App Live](https://placement-quiz-app.vercel.app/)
 
-## 📸 Screenshots
-
-### Home Page
-![Home Page](./screenshots/home.png)
-
-### Quiz Interface
-![Quiz Interface](./screenshots/quiz.png)
-
-### Results Dashboard
-![Results](./screenshots/results.png)
 
 ## 🛠️ Tech Stack
 
@@ -195,10 +185,6 @@ git push origin feature/AmazingFeature
 - [ ] Mobile app version
 - [ ] AI-powered question recommendations
 - [ ] Peer-to-peer challenge mode
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
